@@ -1,6 +1,8 @@
 # interview_starter
 
-company/project
+## Introduction qustions
+
+Past Experiance, Envirement, Technical Stack
 
 tech stack
 
