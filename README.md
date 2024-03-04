@@ -4,8 +4,6 @@
 
 Past Experiance, Envirement, Technical Stack
 
-tech stack
-
 ### Links
 
 Easy/Mid level tasks in react envirement: 
