@@ -4,6 +4,10 @@
 
 Past Experiance, Envirement, Technical Stack
 
+## Ask About
+
+Relations in team, reason of leaving(?)
+
 ### Links
 
 Easy/Mid level tasks in react envirement: 
