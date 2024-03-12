@@ -8,6 +8,10 @@ Past Experiance, Envirement, Technical Stack
 
 Relations in team, reason of leaving(?)
 
+## Technical
+
+Types, methods, Promises, async, timers task
+
 ### Links
 
 Easy/Mid level tasks in react envirement: 
