@@ -12,6 +12,10 @@ Relations in team, reason of leaving(?)
 
 Types, methods, Promises, async, timers task
 
+## Specific
+
+Salary range, desired position
+
 ### Links
 
 Easy/Mid level tasks in react envirement: 
