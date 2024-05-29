@@ -7,6 +7,7 @@ Past Experiance, Envirement, Technical Stack
 ## Ask About
 
 Relations in team, reason of leaving(?)
+How would you (Aprroaches)
 
 ## Technical
 
