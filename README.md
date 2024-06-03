@@ -11,7 +11,7 @@ How would you (Aprroaches)
 
 ## Technical
 
-Types, methods, Promises, async, timers task
+Types, methods, Promises, async, timers task, bundlers
 
 ## Specific
 
