@@ -6,6 +6,7 @@ Past Experiance, Envirement, Technical Stack
 
 ## Ask About
 
+What Crucial decisions has been made
 Relations in team, reason of leaving(?)
 How would you (Aprroaches)
 
